@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/kyle/Dev/Word.Center"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/kyle/Dev/Musicality/json"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/kyle/Dev/Musicality"
+		}
+	]
+}

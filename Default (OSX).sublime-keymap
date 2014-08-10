@@ -1,0 +1,6 @@
+[
+	{"keys": ["ctrl+/"], "command": "undo"},
+	{"keys": ["ctrl+shift+/"], "command": "redo"},
+	{"keys": ["super+w"], "command": "sbp_kill_region", "args": {"is_copy": true}},
+	{"keys": ["super+v"], "command": "move", "args": {"by": "pages", "forward": false }}
+]
